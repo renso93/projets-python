@@ -1,0 +1,10 @@
+file/
+.env/
+env
+.venv/
+venv/
+.vscode 
+__pycache__/
+tests/
+tests/__pycache__/
+*.py[cod]
